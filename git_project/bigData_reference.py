@@ -5,7 +5,10 @@
 # 생활코딩 : https://opentutorials.org/course/1
 # 자바웹프로그래밍 : https://freelec.co.kr/lecture/%EC%B5%9C%EC%8B%A0-%ED%91%9C%EC%A4%80-c%EB%A1%9C-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%95%88%EB%82%B4%ED%95%98%EB%8A%94/
 # 우아한형제들 기술블로그 : https://techblog.woowahan.com/4159/
-
+# CodeUp : python 기초문법 > https://codeup.kr/ >> 기초100제 > 
+# BOJ 그리디 알고리즘: https://www.acmicpc.net/step/33
+#    탐색 유형문제 풀이
+# https://programmers.co.kr/
 
 # [데이터분석 원천자료]
 # 상권분석: https://sg.sbiz.or.kr/godo/index.sg
